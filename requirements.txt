@@ -4,3 +4,4 @@ neuralforecast>=1.6.2
 yfinance>=0.2.28
 datetime>=5.2
 polars>=0.18.15
+matplotlib>=3.7.2
